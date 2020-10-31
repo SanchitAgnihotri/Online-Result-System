@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: LENOVO
+Build-Jdk: 11.0.5
+Class-Path: mysql-connector-java-5.0.8.jar javax.servlet-api-3.1.0.jar l
+ og4j-1.2.14.jar javax.mail-api-1.4.7.jar activation-1.1.jar c3p0-0.9.1.
+ 2.jar
+Created-By: Maven Integration for Eclipse
+
